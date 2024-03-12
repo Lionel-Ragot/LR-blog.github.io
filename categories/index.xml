@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on  &#39;We must know — we will know!&#39; D. Hilbert </title>
-    <link>http://localhost:3508/categories/</link>
+    <link>https://lionel-ragot.github.io/LR-blog.github.io/categories/</link>
     <description>Recent content in Categories on  &#39;We must know — we will know!&#39; D. Hilbert </description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Lionel Ragot</copyright>
-    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:3508/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://lionel-ragot.github.io/LR-blog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Environnement</title>
-      <link>http://localhost:3508/categories/environnement/</link>
+      <link>https://lionel-ragot.github.io/LR-blog.github.io/categories/environnement/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:3508/categories/environnement/</guid>
+      <guid>https://lionel-ragot.github.io/LR-blog.github.io/categories/environnement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energie</title>
-      <link>http://localhost:3508/categories/energie/</link>
+      <link>https://lionel-ragot.github.io/LR-blog.github.io/categories/energie/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:3508/categories/energie/</guid>
+      <guid>https://lionel-ragot.github.io/LR-blog.github.io/categories/energie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immigration</title>
-      <link>http://localhost:3508/categories/immigration/</link>
+      <link>https://lionel-ragot.github.io/LR-blog.github.io/categories/immigration/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0100</pubDate>
       
-      <guid>http://localhost:3508/categories/immigration/</guid>
+      <guid>https://lionel-ragot.github.io/LR-blog.github.io/categories/immigration/</guid>
       <description></description>
     </item>
     

@@ -1,127 +1,127 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:3508/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lionel-ragot.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:3508/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/page/about/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/page/about/</loc>
     <lastmod>2022-08-04T13:32:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/page/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/page/</loc>
     <lastmod>2022-08-04T13:32:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/categories/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/croissance-durable/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/croissance-durable/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/d%C3%A9croissance/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/d%C3%A9croissance/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/posts/2022-08-04-post-decroissance/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-04-post-decroissance/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/categories/environnement/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/environnement/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/posts/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/categories/energie/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/energie/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/ukraine/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/ukraine/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/posts/2022-08-04-post-ukraine-cepii/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-04-post-ukraine-cepii/</loc>
     <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/covid19/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/covid19/</loc>
     <lastmod>2022-08-06T19:19:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/categories/immigration/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/immigration/</loc>
     <lastmod>2022-08-06T19:19:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/immigr%C3%A9s/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/immigr%C3%A9s/</loc>
     <lastmod>2022-08-06T19:19:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/posts/2022-08-06-post-metiers-essentiels/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-06-post-metiers-essentiels/</loc>
     <lastmod>2022-08-06T19:19:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:3508/tags/m%C3%A9tiers-essentiels/</loc>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/m%C3%A9tiers-essentiels/</loc>
     <lastmod>2022-08-06T19:19:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
