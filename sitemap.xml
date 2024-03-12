@@ -1,0 +1,130 @@
+<?xml-stylesheet type="text/xsl" href="http://localhost:3508/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:3508/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/page/about/</loc>
+    <lastmod>2022-08-04T13:32:32+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/page/</loc>
+    <lastmod>2022-08-04T13:32:32+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/categories/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/croissance-durable/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/d%C3%A9croissance/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/posts/2022-08-04-post-decroissance/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/categories/environnement/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/posts/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/categories/energie/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/ukraine/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/posts/2022-08-04-post-ukraine-cepii/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/covid19/</loc>
+    <lastmod>2022-08-06T19:19:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/categories/immigration/</loc>
+    <lastmod>2022-08-06T19:19:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/immigr%C3%A9s/</loc>
+    <lastmod>2022-08-06T19:19:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/posts/2022-08-06-post-metiers-essentiels/</loc>
+    <lastmod>2022-08-06T19:19:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3508/tags/m%C3%A9tiers-essentiels/</loc>
+    <lastmod>2022-08-06T19:19:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
