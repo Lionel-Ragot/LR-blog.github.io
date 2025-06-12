@@ -9,6 +9,55 @@
   </url>
   
   <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/%C3%A9pist%C3%A9mologie/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2025-06-12-economi-sciences/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/sciences/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/sciences-%C3%A9conomiques/</loc>
+    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/</loc>
+    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/page/about/</loc>
     <lastmod>2022-08-04T13:32:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,13 +67,6 @@
   <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/page/</loc>
     <lastmod>2022-08-04T13:32:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,20 +95,6 @@
   <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/environnement/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
