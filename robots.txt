@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://lionel-ragot.github.io/LR-blog.github.io/sitemap.xml
+Sitemap: http://localhost:1313/LR-blog.github.io/sitemap.xml

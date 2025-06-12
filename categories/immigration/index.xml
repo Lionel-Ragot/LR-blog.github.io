@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Immigration on  &#39;We must know — we will know!&#39; D. Hilbert </title>
-    <link>https://lionel-ragot.github.io/LR-blog.github.io/categories/immigration/</link>
+    <link>http://localhost:1313/LR-blog.github.io/categories/immigration/</link>
     <description>Recent content in Immigration on  &#39;We must know — we will know!&#39; D. Hilbert </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
     <copyright>Lionel Ragot</copyright>
-    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://lionel-ragot.github.io/LR-blog.github.io/categories/immigration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0100</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/LR-blog.github.io/categories/immigration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Métiers essentiels - quelle contribution des travailleurs immigrés ?</title>
-      <link>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-06-post-metiers-essentiels/</link>
+      <link>http://localhost:1313/LR-blog.github.io/posts/2022-08-06-post-metiers-essentiels/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-06-post-metiers-essentiels/</guid>
-      <description>Pour maintenir les services indispensables aux besoins essentiels de la population lors du confinement du printemps 2020, certains travailleurs ont été autorisés à poursuivre leur activité sur leur lieu de travail. Ces travailleurs, qualifiés d’essentiels, ont été assimilés à des héros et comparés à des combattants envoyés en première ligne. Dans une Lettre du Cepii, avec Anthony Edo et Sonia Louhab, nous avons cherché à déterminer quelle a été la contribution des immigrés à ces travailleurs essentiels.</description>
+      <guid>http://localhost:1313/LR-blog.github.io/posts/2022-08-06-post-metiers-essentiels/</guid>
+      
+        <description>&lt;DIV align=&#34;justify&#34;&gt; Pour maintenir les services indispensables aux besoins essentiels de la population lors du confinement du printemps 2020, certains travailleurs ont été autorisés à poursuivre leur activité sur leur lieu de travail. Ces travailleurs, qualifiés d’essentiels, ont été assimilés à des héros et comparés à des combattants envoyés en première ligne. Dans une  &lt;a href=&#34;http://localhost:1313/LR-blog.github.io/pdf/let424.pdf&#34; target=&#34;_blank&#34;&gt;Lettre du Cepii&lt;/a&gt;, avec Anthony Edo et Sonia Louhab, nous avons cherché à déterminer quelle a été la contribution des immigrés à ces travailleurs essentiels.  En France, un dixième de ces travailleurs sont immigrés. Une part similaire à celle qu’ils occupent dans l’emploi total. Toutefois, certains métiers essentiels sont très dépendants de la main-d’oeuvre immigrée : c’est le cas des agents de propreté et des aides à domicile, mais aussi des médecins hospitaliers. Les travailleurs immigrés ont aussi joué un rôle capital en Île-de-France où ils représentent près d’un tiers des travailleurs essentiels et jusqu’à plus de 60 % des agents de propreté et aides à domicile. Ainsi, si au niveau national, les immigrés ont contribué à la continuité de l’activité économique essentielle au prorata de la part qu’ils représentent dans l’emploi, dans certains métiers ou régions leur rôle s’est révélé décisif.&lt;/DIV&gt; 
+</description>
+      
     </item>
     
   </channel>
