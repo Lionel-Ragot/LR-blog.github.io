@@ -3,14 +3,56 @@
   
   <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/croissance-durable/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/categories/d%C3%A9croissance/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2025-09-08-decroissance-parrique/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/d%C3%A9croissance/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/</loc>
+    <lastmod>2025-09-08T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -18,13 +60,6 @@
   <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/%C3%A9pist%C3%A9mologie/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/</loc>
-    <lastmod>2022-08-06T19:30:15+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/page/about/</loc>
     <lastmod>2022-08-04T13:32:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,21 +100,7 @@
   </url>
   
   <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/croissance-durable/</loc>
-    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://lionel-ragot.github.io/LR-blog.github.io/posts/2022-08-04-post-decroissance/</loc>
-    <lastmod>2022-08-04T16:23:46+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://lionel-ragot.github.io/LR-blog.github.io/tags/d%C3%A9croissance/</loc>
     <lastmod>2022-08-04T16:23:46+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
